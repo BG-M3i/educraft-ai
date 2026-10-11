@@ -5,7 +5,7 @@
   "description": "Vietnamese AI lesson plan, slide and test builder",
   "main": "server.js",
   "scripts": { "start": "node server.js" },
-  "engines": { "node": ">=20" },
+ "engines": { "node": "22.x" },
   "dependencies": {
     "better-sqlite3": "^11.8.1",
     "docx": "^9.1.1",
